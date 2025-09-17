@@ -1,3 +1,4 @@
+
 # **Summary**
 The main purpose of the system is to simulate a controller of the temperature in a certain climate. It indicates through 2 LEDs the difference between the environmental temperature (Tm) and the target temperature (Tt). Given their lighting, the temperature would COOL, HEAT or remain the same.
 
@@ -62,3 +63,7 @@ if |Tm-Tt| < 5C then:
  
  # Functional State Machine
 ![FSM drawio](https://github.com/user-attachments/assets/c725f2bb-28de-4968-8964-7576d731c193)
+
+# Video Demo
+[![VIDEO DEMO](https://img.youtube.com/vi/UidEKBWCLyI/hqdefault.jpg)](https://www.youtube.com/watch?v=UidEKBWCLyI)
+
